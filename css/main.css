@@ -1,25 +1,29 @@
 body {
-    box-sizing: border-box;
-    background-color: rgb(197, 255, 236);
+  box-sizing: border-box;
+  background-color: rgb(197, 255, 236);
 }
 
 .header {
-    text-align: center;
+  text-align: center;
 }
 
 h1 {
-    color: brown;
-    font-size: 44px;
-    font-family: 'Franklin Gothic Medium';
+  color: brown;
+  font-size: 44px;
+  font-family: "Franklin Gothic Medium";
 }
 
 h4 {
-    color: blue;
+  color: blue;
 }
 
 .text {
-    align-items: center;
-    border: 1.5px solid rgb(108, 105, 105);
-    font-size: 18px;
-    width: 550px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px;
+  text-align: center;
+  border: 1.5px solid rgb(108, 105, 105);
+  font-family: 'Franklin Gothic Medium';
+  font-size: 18px;
+  width: 550px;
 }
